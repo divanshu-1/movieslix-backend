@@ -29,3 +29,9 @@ git clone https://github.com/Divanshu-1/movieslix-backend.git
 cd movieslix-backend
 npm install
 node index.js
+
+PORT=5000
+MONGO_URI=your_mongo_connection_string
+JWT_SECRET=your_jwt_secret
+
+
