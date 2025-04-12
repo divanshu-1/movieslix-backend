@@ -1,0 +1,4 @@
+{"level":"info","message":"Listening to port 3900...","timestamp":"2025-04-12T11:09:26.391Z"}
+{"level":"error","message":"Error connecting to mongodb://127.0.0.1:27017/MoviesLix: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-12T11:09:56.385Z"}
+{"level":"info","message":"Listening to port 3900...","timestamp":"2025-04-12T11:14:46.278Z"}
+{"level":"error","message":"Error connecting to mongodb://127.0.0.1:27017/MoviesLix: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"2025-04-12T11:15:16.274Z"}
